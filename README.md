@@ -21,4 +21,5 @@ The book provides a comprehensive, hands-on guide to applying both **classical m
 This notebook is ideal for learners, data professionals, and educators looking to deepen their understanding of machine learning with structured/tabular data, while exploring fresh perspectives and tooling enhancements.
 
 > _Note1: While many sections reflect the original structure of the book, all summaries, code tweaks, and improvements are independently created for learning purposes._
-> _Note2: *extra_y_profiling.ipynb* in github will not fully render the packages outputs. You'll find a full interactive version when you install and work in jupyter or JupyterLab  
+
+> _Note2: *extra_y_profiling.ipynb* in github will not fully render the packages outputs. You'll find a full interactive version when you install and work in jupyter or JupyterLab_
